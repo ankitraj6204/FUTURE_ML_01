@@ -1,2 +1,16 @@
 # FUTURE_ML_01
-This repository contains machine learning–related tasks completed as part of the Future TrackCode program. It is organized to reflect practical implementation of fundamental ML concepts, with a focus on clarity, correctness, and hands-on learning. The repository serves as a record of applied machine learning work and skill development.
+
+## Overview
+This project presents an AI-driven sales forecasting dashboard built using Power BI,
+supported by historical sales data analysis and category-wise insights.
+
+## Files Included
+- Excel dataset used for analysis
+- Power BI dashboard (.pbix) with forecasting model
+- PDF report containing business insights and recommendations
+
+## Key Insights
+- Sales trend analysis (historical & forecast)
+- Category contribution analysis
+- State-level performance filtering
+
